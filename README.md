@@ -2,7 +2,7 @@
 
 ## Overview
 The Fall Detection System, **SecondGuardian**, is an application designed to detect falls using smartphone sensors such as an accelerometer and gyroscope. The system is trained using machine learning and can send emergency alerts via email when a fall is detected.
-
+![alt text](image-2.png)
 ## Features
 - **Real-time Fall Detection**: Uses a trained RandomForestClassifier to detect falls based on accelerometer and gyroscope readings.
 - **REST API**: Built with Flask to expose endpoints for predictions and emergency alerts.
